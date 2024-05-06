@@ -22,4 +22,4 @@ Whether you're a casual user or a developer, our interface offers something for 
 
 [Demo Video](https://drive.google.com/file/d/1PtPLjet9c6CaEpjPH69trjjZOZVa_m-G/view?usp=sharing)
 
-*Note: Include links to the GitHub repository and demo video for further exploration and demonstration of the VR mobile interface.*
+*Note: Include links to the Figma Design and demo video for further exploration and demonstration of the VR mobile interface.*
