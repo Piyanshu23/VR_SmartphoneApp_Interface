@@ -15,9 +15,9 @@ Our VR mobile interface is compatible with a wide range of VR-capable mobile dev
 
 ## Take Your VR Experience to the Next Level:
 
-Whether you're a casual user or a developer, our interface offers something for everyone. Join us on the journey to revolutionize mobile VR interaction!
+Whether you're a casual user or a developer, our interface offers something for everyone.
 
-[GitHub Repository](link-to-repo)
-[Demo Video](link-to-demo)
+[Figma Link] (https://www.figma.com/file/JENDH1iwy6yZxFASwlKmoe/IRIS-%3A-An-ultimate-VR-experience?type=design&node-id=158%3A258&mode=design&t=YSxH0dn4fowe1LTg-1)
+[Demo Video](https://drive.google.com/file/d/1PtPLjet9c6CaEpjPH69trjjZOZVa_m-G/view?usp=sharing)
 
 *Note: Include links to the GitHub repository and demo video for further exploration and demonstration of the VR mobile interface.*
